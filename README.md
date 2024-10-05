@@ -12,10 +12,10 @@ Visualization of the data stream and detected anomalies
 
 Requirements
 
-Python 3.10
-NumPy
-Matplotlib
-SciPy
+Python 3.10,
+NumPy,
+Matplotlib,
+SciPy,
 
 Installation
 
