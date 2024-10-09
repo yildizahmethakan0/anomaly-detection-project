@@ -1,5 +1,6 @@
 import numpy as np
 
+
 def generate_data_stream(n, seasonality=24, trend=0.1, noise_level=1):
     time = np.arange(n)
     trend_component = trend * time
