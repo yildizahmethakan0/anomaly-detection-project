@@ -1,7 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-
 def visualize_stream(data, anomalies):
     plt.figure(figsize=(12, 6))
     plt.plot(data, label='Data Stream')
