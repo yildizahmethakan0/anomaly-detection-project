@@ -2,7 +2,8 @@ import numpy as np
 from src.anomaly_detector import AnomalyDetector
 from src.data_generator import generate_data_stream
 from src.visualizer import visualize_stream
-  
+
+
 def main():
     n_points = 1000
     data_stream = generate_data_stream(n_points)
